@@ -15,7 +15,7 @@ bem como os produtos pesquisados são resultados de uma consulta à **API do Mer
 clicados, redirecionando o usuário para a página de detalhes daquele produto. Há também um botão para adicionar cada produto ao carrinho.
 
 Na página de detalhes do produto, é possível adicionar uma avaliação sobre ele e também adicioná-lo ao carrinho. Ao clicar no ícone de carrinho, o usuário é 
-redirecionado para a página contendo a desccrição de todos produtos adicionados, contendo também opções para manipular suas quantidades. Por fim, ao finalizar 
+redirecionado para a página contendo a descrição de todos produtos adicionados, contendo também opções para manipular suas quantidades. Por fim, ao finalizar 
 a compra, existe uma página de checkout simulando um formulário de preenchimento de dados que, com o nome preenchido e confirmado, é renderizada uma mensagem 
 de agradecimento pela compra.
 ***
