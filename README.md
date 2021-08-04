@@ -10,7 +10,7 @@ Foram utilizadas as tecnologias HTML, CSS, Javascript e a biblioteca React.JS.
 
 O objetivo do projeto foi aprimorar softskills de trabalho em grupo, focando em colaboração, comunicação, e aplicação das metodologias ágeis Scrum e Kanban.
 
-Foi criada uma página simulando uma loja virtural, onde podem ser feitas pesquisas de acordo com uma lista de categorias ou palavras chave. A lista de categorias 
+Foi criada uma página simulando uma loja virtual, onde podem ser feitas pesquisas de acordo com uma lista de categorias ou palavras chave. A lista de categorias 
 bem como os produtos pesquisados são resultados de uma consulta à **API do Mercado Livre**. Ao pesquisar os produtos, são renderizados os resultados que podem ser
 clicados, redirecionando o usuário para a página de detalhes daquele produto. Há também um botão para adicionar cada produto ao carrinho.
 
