@@ -1,4 +1,5 @@
 # Projeto Frontend Online Store
+![frontend_store](https://user-images.githubusercontent.com/82068881/128215284-392c8e91-bb01-441d-80e4-0a8b4eb26049.png)
 
 ***
 Você pode acessar o site no ar [aqui](https://kevin-ol.github.io/project-frontend-online-store/).
